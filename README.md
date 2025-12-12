@@ -11,9 +11,9 @@ Kelompok Kelas: 5D-KOM
    Aplikasi mobile Presesnsi digital ini memiliki 2 role yaitu HRD dan Karyawan, yang dimana HRD bisa memonitoring langsung absensi dari Karyawan.
    Aplikasi ini memiliki beberapa page seperti Page Login, Dashboard, Absen, Izin/Cuti, dan Page Monitoring Absensi. Di role HRD memiliki Page Tambahahan yaitu page untuk menambah Karyawan/User.
 
-   FRAMEWORK: FLUTTER & FLASK
-   BAHASA: DART & PYTHON
-   DATABASE: MYSQL
+   FRAMEWORK: FLUTTER & FLASK;
+   BAHASA: DART & PYTHON;
+   DATABASE: MYSQL.
 
 
    
